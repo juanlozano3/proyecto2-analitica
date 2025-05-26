@@ -2550,7 +2550,7 @@ def predecir(n_clicks, *valores):
             return mensaje, vista, {}, {"display": "none"}
         else:
             vista = html.Div(
-                "⏳ Está por verse... sigue preparándote para mejorar tu puntaje."
+                "Está por verse... sigue preparándote para mejorar tu puntaje."
             )
             return mensaje, vista, {}, {"display": "none"}
 
