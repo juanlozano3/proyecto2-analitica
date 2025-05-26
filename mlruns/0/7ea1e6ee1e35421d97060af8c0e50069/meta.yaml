@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/juanl/Mi%20unidad/Octavo%20Semestre/Analitica%20/Proyecto%202/ProyectoFinal/mlruns/0/7ea1e6ee1e35421d97060af8c0e50069/artifacts
+end_time: 1747863479899
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ea1e6ee1e35421d97060af8c0e50069
+run_name: clean-panda-257
+run_uuid: 7ea1e6ee1e35421d97060af8c0e50069
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747863440988
+status: 4
+tags: []
+user_id: juanl

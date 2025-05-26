@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/juanl/Mi%20unidad/Octavo%20Semestre/Analitica%20/Proyecto%202/ProyectoFinal/mlruns/376662939727612410/82b51da20ba74a19be79016c4210a0b4/artifacts
+end_time: 1748192852623
+entry_point_name: ''
+experiment_id: '376662939727612410'
+lifecycle_stage: active
+run_id: 82b51da20ba74a19be79016c4210a0b4
+run_name: h_20ep_32bs
+run_uuid: 82b51da20ba74a19be79016c4210a0b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748192783243
+status: 3
+tags: []
+user_id: juanl

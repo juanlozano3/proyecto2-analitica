@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/juanl/Mi%20unidad/Octavo%20Semestre/Analitica%20/Proyecto%202/ProyectoFinal/mlruns/448308433768808936/66019a5bab644a3b9a33c22e4768e931/artifacts
+deleted_time: 1748191826659
+end_time: 1747863792427
+entry_point_name: ''
+experiment_id: '448308433768808936'
+lifecycle_stage: deleted
+run_id: 66019a5bab644a3b9a33c22e4768e931
+run_name: Red Neuronal v1 - Base inicial
+run_uuid: 66019a5bab644a3b9a33c22e4768e931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747863702859
+status: 3
+tags: []
+user_id: juanl

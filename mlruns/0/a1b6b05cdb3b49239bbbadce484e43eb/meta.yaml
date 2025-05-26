@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/juanl/Mi%20unidad/Octavo%20Semestre/Analitica%20/Proyecto%202/ProyectoFinal/mlruns/0/a1b6b05cdb3b49239bbbadce484e43eb/artifacts
+end_time: 1747863589806
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1b6b05cdb3b49239bbbadce484e43eb
+run_name: unruly-rook-106
+run_uuid: a1b6b05cdb3b49239bbbadce484e43eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747863496098
+status: 3
+tags: []
+user_id: juanl

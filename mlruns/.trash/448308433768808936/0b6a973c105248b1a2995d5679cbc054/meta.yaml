@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/juanl/Mi%20unidad/Octavo%20Semestre/Analitica%20/Proyecto%202/ProyectoFinal/mlruns/448308433768808936/0b6a973c105248b1a2995d5679cbc054/artifacts
+deleted_time: 1748191826659
+end_time: 1748102810160
+entry_point_name: ''
+experiment_id: '448308433768808936'
+lifecycle_stage: deleted
+run_id: 0b6a973c105248b1a2995d5679cbc054
+run_name: Búsqueda con HalvingGridSearchCV
+run_uuid: 0b6a973c105248b1a2995d5679cbc054
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748102810153
+status: 4
+tags: []
+user_id: juanl

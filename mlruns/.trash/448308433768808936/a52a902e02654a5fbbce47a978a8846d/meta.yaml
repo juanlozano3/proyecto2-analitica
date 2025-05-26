@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/juanl/Mi%20unidad/Octavo%20Semestre/Analitica%20/Proyecto%202/ProyectoFinal/mlruns/448308433768808936/a52a902e02654a5fbbce47a978a8846d/artifacts
+deleted_time: 1748191826659
+end_time: 1748102619746
+entry_point_name: ''
+experiment_id: '448308433768808936'
+lifecycle_stage: deleted
+run_id: a52a902e02654a5fbbce47a978a8846d
+run_name: Búsqueda de Hiperparámetros
+run_uuid: a52a902e02654a5fbbce47a978a8846d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748102619723
+status: 4
+tags: []
+user_id: juanl

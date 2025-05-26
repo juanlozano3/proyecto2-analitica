@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/juanl/Mi%20unidad/Octavo%20Semestre/Analitica%20/Proyecto%202/ProyectoFinal/mlruns/172150508753142395/b6c5bb6629fe48de8a415e202d15c054/artifacts
+deleted_time: 1748191823385
+end_time: 1748102117986
+entry_point_name: ''
+experiment_id: '172150508753142395'
+lifecycle_stage: deleted
+run_id: b6c5bb6629fe48de8a415e202d15c054
+run_name: GridSearch Red Neuronal
+run_uuid: b6c5bb6629fe48de8a415e202d15c054
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748102117945
+status: 4
+tags: []
+user_id: juanl
